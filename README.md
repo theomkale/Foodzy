@@ -9,7 +9,9 @@
 `Android, iOS`
 
 ------------
-![Budgety](https://user-images.githubusercontent.com/55269410/115545866-ec31b300-a2c1-11eb-99c2-950d99725f4f.png)
+![Foodzy 0](https://user-images.githubusercontent.com/55269410/115549201-fbb2fb00-a2c5-11eb-9ee6-6010d4879fb8.png)
+![Foodzy 1](https://user-images.githubusercontent.com/55269410/115549232-02417280-a2c6-11eb-8701-3b788ea7f8f8.png)
+![Foodzy 2](https://user-images.githubusercontent.com/55269410/115549236-040b3600-a2c6-11eb-8ecd-2550fcef3aab.png)
 ------------
 #### Description: 
 - App Features:
